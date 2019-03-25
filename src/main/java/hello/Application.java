@@ -1,6 +1,3 @@
 Hola mundo;
 
-ey que tal pechofrio;
-sads;
-pero que haseis
-:)
+nota(Adri).get(Fisica)<5= true;
